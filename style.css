@@ -144,3 +144,9 @@
     padding-top: 2.5%;
     padding-bottom: 2.5%;
   }
+
+
+
+  .everything {
+      overflow-x: hidden;
+  }
